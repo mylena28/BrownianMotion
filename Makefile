@@ -51,3 +51,4 @@ all_run: brownian_sim msd_validate
 clean:
 	rm -f *.o *.mod brownian_sim msd_validate
 	rm -f trajectory.dat no_gravity_traj.dat msd_output.dat
+	rm -f *.png *.mp4
