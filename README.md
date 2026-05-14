@@ -161,6 +161,14 @@ After any change, rebuild with `make clean && make`.
 
 ---
 
+## Result
+
+![Settling sphere animation](trajectory_settling.gif)
+
+The animation shows a 1 µm SiO₂ sphere settling in water over 5000 s. The 3-D trail grows as the particle drifts downward along z while diffusing laterally in x and y. The right panel tracks z(t), where the linear mean descent (slope = −U_s) is visible beneath the Brownian fluctuations.
+
+---
+
 ## References
 
 - Ermak, D. L. & McCammon, J. A. (1978). *Brownian dynamics with hydrodynamic interactions.* J. Chem. Phys., **69**(4), 1352–1360.
